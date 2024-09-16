@@ -1061,11 +1061,12 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:5df61bf30bb10c6f756eb19e7c9f3b473051f48db77fddbe06ff2ca307df9a6f",
-                "sha256:62642358adc77ffa87233bc4d2354c4b2682d214048f500964dbe760ccedf102"
+                "sha256:35ab7fd3bcd95e6b7fd704e4a1539513edad446c097797f2985e0e4b960772f2",
+                "sha256:d59a21b17a275fb872a9c3dae73963160ae079f1049ed956880cd7c09b120538"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==67.8.0"
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==75.1.0"
         },
         "setuptools-scm": {
             "hashes": [
